@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ケツメイシ『バラード』PV",
+  "base_artist": "ケツメイシ",
+  "createdAt": "2026-02-11T12:30:59.516197Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ケツメイシ工場",
+      "artist": "ケツメイシ",
+      "has_synced": false,
+      "path": "select/pl_01_ケツメイシ工場_ケツメイシ.txt"
+    }
+  ]
+}
